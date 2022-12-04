@@ -1,16 +1,19 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: This is the place that you gonna more information about Me.
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Bilal but you gonna call me as "Satrayn", don't ask because you gonna learn why you should do that if we are
+getting chance to talk each other.
+Satrayn born and rised in Istanbul. If you don't know Istanbul it's biggest metropol of Turkey Republic and worst city in the
+Turkey Rebuplic. So you can guess how Satrayn rised. 
+Satrayn was hospitalized up to 12 years old because of bronchiectasis. He paid the heaviest price possible because he was infected 
+with so many infections and was not treated in time. But this topics is uselesss forget it.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I'm gonna serve articles and stories for you at this blog. My articles is about business, data analysis, engineering, machine learning,
+sociology, the other social sciences and mixation of these disciplines. So you can expect too much topics from this blog my friend. 
+Because I guess I'm gonna write what I want, that's my method. I will not copying thinking of the others, I'm hating that. I'm
+trying my words original as possible. 
 
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+So happy to have you in here. Take a coffee or tea and enjoy your reading. 
