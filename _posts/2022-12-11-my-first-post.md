@@ -2,7 +2,7 @@
 layout: post
 title: The First Post of This Blog
 subtitle: I'm Beginning of This Blog with this Post.
-tags: [test]
+tags: [first, post]
 comments: true
 ---
 
