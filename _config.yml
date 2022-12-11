@@ -29,7 +29,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "https://ih1.redbubble.net/image.2154955407.0609/fposter,small,wall_texture,product,750x1000.jpg"
+avatar: "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8dd2fd6e-ea70-434d-b556-6a97b5e03ee2/ddo5xnt-b42225ce-c2c0-4580-b33b-bf8b957d20d7.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzhkZDJmZDZlLWVhNzAtNDM0ZC1iNTU2LTZhOTdiNWUwM2VlMlwvZGRvNXhudC1iNDIyMjVjZS1jMmMwLTQ1ODAtYjMzYi1iZjhiOTU3ZDIwZDcuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.iS2DJhqWhUKCPJsEYszumePWvFGtHY9yRaAhuceW2ws"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
