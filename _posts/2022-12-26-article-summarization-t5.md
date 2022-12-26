@@ -89,9 +89,9 @@ I gave the model pages and pages of articles I got from ResearchGate on various 
 
 But, let's talk about the benefits of reading articles as well as other benefits.
 
-The act of searching for articles is very difficult. There are millions of articles on [ResearchGate](https://www.researchgate.net/) and [Academia](https://academia.edu/) and thousands of other websites. But that's not the most heartbreaking thing about these articles. The uselessness of abstracts.
+The act of searching and finding for articles is very difficult especially when you want a good article about topic that you want. There are millions of articles on [ResearchGate](https://www.researchgate.net/) and [Academia](https://academia.edu/) and thousands of other websites. But that's not the most breaking thing about these articles. The uselessness of abstracts.
 I think that this model's explanation of articles that can reach tens or even hundreds of pages in such a few sentences shows that this situation can be used in the writing of explanatory and short abstracts related to the articles.
-And besides, I think that these summarizations, which cover the entire article, can be used as a parameter in the Search function within the sites.
+And besides, I think that these summarizations, which cover the entire article, can be used as a parameter in the Search function within the sites for better Search exprience for user.
 
 Thank you for reading. I leave the Kaggle link so that you can use the notebook I wrote below.
 
