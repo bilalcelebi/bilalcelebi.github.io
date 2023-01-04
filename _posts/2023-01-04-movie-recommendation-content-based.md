@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Movie Recommendation with Content-Based Filtering.
-subtitle: We creating a system for recommending movies by their metadatas with using Content-Based Filtering and TD-IDF.
+subtitle: We creating a system for recommending movies by their metadatas with using Content-Based Filtering and TF-IDF.
 tags: [recommendation system, movie recommendation, movies dataset, tfidf-vectorizer]
 comments: true
 ---
