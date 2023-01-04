@@ -36,7 +36,7 @@ The last step is easy, you give the texts to the model and it gives you a text t
 ### Let's Go Deep, Shall We? ###
 
 
-<iframe src="https://www.kaggle.com/embed/bilalelebi/pdf-article-summarization-with-longt5?kernelSessionId=114783188" height="100%" style="margin: 0 auto; width: 100%; max-width: 950px;" frameborder="0" scrolling="auto" title="PDF Article Summarization with LongT5"></iframe>
+<iframe src="https://www.kaggle.com/embed/bilalelebi/pdf-article-summarization-with-longt5?kernelSessionId=114783188" height="1175" style="margin: 0 auto; width: 100%; max-width: 950px;" frameborder="0" scrolling="auto" title="PDF Article Summarization with LongT5"></iframe>
 
 
 First, we need the download our dependencies. We need ***Transformers*** for model and ***PyPDF2*** for extracting text from PDF's. You gonna see the other libraries I put them for other purposes that I will made in next couple of days or week... I don't know.
