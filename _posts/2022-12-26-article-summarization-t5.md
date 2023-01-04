@@ -32,11 +32,12 @@ Then I started cleaning the raw text I got. I deleted URLs, deleted special char
 After clearing my texts, I made my model ready. I made the model usable in two ways. The first is the 'pipeline' function, which is a convenience offered by the transformers library, and the other is a slightly more technical way, which I think gives better quality outputs. Pipeline is a little more ready-made way.
 The last step is easy, you give the texts to the model and it gives you a text that tells you in just a few sentences what is being said in that long text you gave.
 
+
 ### Let's Go Deep, Shall We? ###
 
 
+<iframe src="https://www.kaggle.com/embed/bilalelebi/pdf-article-summarization-with-longt5?kernelSessionId=114783188" height="100%" style="margin: 0 auto; width: 100%; max-width: 950px;" frameborder="0" scrolling="auto" title="PDF Article Summarization with LongT5"></iframe>
 
-<iframe id="rendered-kernel-content" src="https://www.kaggleusercontent.com/kf/114783188/eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..kiE-7pu-rNOswjgLSZHETg.bwXF_9gz4f1asAwRjif-nuMzMx9YFYd_n0wJK-ODrVphoBEsjuJBd-iWWDbrpdBnHLHoTRHtZtaXiPoGf5s8aM7Dmcjn-4f82VcnfrcW9ucQ-mU8DyGG7ozuGOfsINFc78jrxqaVHWiSQyN4AAVwbUtm8PtXelQo7guCQO6p76cdJENydKyxSqVXoIxgdulopJfz9aH9AJEqihADUxtQnTIw78BuNM-5NmCkUAjKPDYYdDxn4gTl69_XBaiQDxr3qmh5wI4fdZZCdEPi0c43GHpBR6ohDOWjulj1Eqjgzfy_3v193nQfUoto8DJDEu4qq5zId4AeY_wOWP5LynT08QMFoq8E4CdN6-oVIIdiRPPoqFJ1EPiGNrXnAJtOajpqNKoLHmTHDSf37IP0ipy1S1hFxPaHG_I9Jvu1I408ownNFcAnqKvlNABgDUCifDQSUzF7qcAp09OLJcf4y3U6qk7xFgEMgwx8S5NELLGnjHQw7RvDUp-0f5pcOmB7MwW9f7bsM-QsIW8Iwn2Fwboa5qr-FuNHe-TIuiPWTb-xHHDtVYKv1gT2kPC2nlccbkjvv-Cm8KoTdad2rkJCHOwTdSvfy40HUha32zuRGu_APW3IE-etuYJH1OW5wAquaLpzgNU7WWuCUuWgTLknTt2LktJEoTqSARtuaj75nMWIxxAPEKzKBUgVDBdv2fTyuXi9.kJua3V91iBsJUsdfpsL-fQ/__results__.html" scrolling="yes" title="Main Notebook Content" class="sc-BSOkt cnNisg" style="height: 11850px; width: 100%; display: block;"></iframe>
 
 First, we need the download our dependencies. We need ***Transformers*** for model and ***PyPDF2*** for extracting text from PDF's. You gonna see the other libraries I put them for other purposes that I will made in next couple of days or week... I don't know.
 And then you seeing two functions, ***clean_text*** and ***get_text***. clean_text will cleaning text from urls, emojis, unicodes and punctutaions and get_text will reach the pdf, extracting text and then cleaning it.
