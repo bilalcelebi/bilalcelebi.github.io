@@ -145,7 +145,7 @@ trainer.save_model()
 tokenizer.save_pretrained(model_save_path)
 ```
 
-Above, we start the training process of the model by calling the train function of the Trainer function, and after the training is finished, we evaluate the model by calling the evaluate function and understand how good the model is, then we save the model and tokenizer in order to be able to use it later or upload it to the huggingface model hub.
+Above, we start the training process of the model by calling the train function of the Trainer class, and after the training is finished, we evaluate the model by calling the evaluate function and understand how good the model is, then we save the model and tokenizer in order to be able to use it later or upload it to the huggingface model hub.
 
 Here is training metrics. Including training steps and and training loss.
 
