@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: Satrayn's Lair
+title: Bilal Çelebi
 
 # Your name to show in the footer
-author: Bilal Çelebi a.k.a Satrayn
+author: Bilal Çelebi
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -21,7 +21,7 @@ author: Bilal Çelebi a.k.a Satrayn
 
 navbar-links:
   About Me: "aboutme"
-  Author's home: "https://www.instagram.com/9shotmocha"
+  Author's home: "https://www.linkedin.com/in/bilal-%C3%A7elebi-408b70172/"
 
 ################
 # --- Logo --- #
@@ -55,7 +55,7 @@ social-network-links:
   youtube: 
 #  medium: yourname
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: "https://www.linkedin.com/in/bilal-%C3%A7elebi-408b70172/"
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -71,7 +71,7 @@ social-network-links:
 #  ORCID: your ORCID ID
 #  google-scholar: your google scholar
 #  discord: invite/invite_code or users/userid 
-#  kaggle: yourname
+  kaggle: bilalelebi
 #  hackerrank: yourname
 
 # If you want your website to generate an RSS feed, provide a description
@@ -84,8 +84,8 @@ rss-description: This website is a virtual proof that I'm awesome
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
+  twitter: false
+  facebook: false
   linkedin: true
   vk: false
 
